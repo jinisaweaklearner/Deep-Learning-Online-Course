@@ -1,4 +1,5 @@
-# deep_learning_notes
+# Deep Learning Online Course
+
 
 The notes and hands-on scripts of the [deep learning online course](https://www.coursera.org/learn/neural-networks-deep-learning/home/welcome) on Coursera.
 
